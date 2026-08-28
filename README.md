@@ -1,8 +1,8 @@
-JavaScript Problem Solving/1
+## JavaScript Problem Solving/1
 
 A collection of classic JavaScript coding problems solved with clean, well-documented functions. Covers number theory, array operations and common algorithm patterns.
 
-Problems Covered:
+## Problems Covered:
 
 1.Check if a Year is a Leap Year
 2.Generate Fibonacci Sequence Up to N Terms
